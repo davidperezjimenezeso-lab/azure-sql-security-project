@@ -158,10 +158,10 @@ El repositorio contiene los siguientes recursos:
 
 ### Scripts SQL
 
-- [01 - Creación de tablas](SQL/01_creacion_tablas.sql)
-- [02 - Inserción de datos ficticios](SQL/02_insercion_datos.sql)
-- [03 - Roles y permisos](SQL/03_roles_permisos.sql)
-- [04 - Pruebas de seguridad](SQL/04_pruebas_seguridad.sql)
+- [01 - Creación de tablas](sql/01_creacion_tablas.sql)
+- [02 - Inserción de datos ficticios](sql/02_insercion_datos.sql)
+- [03 - Roles y permisos](sql/03_roles_permisos.sql)
+- [04 - Pruebas de seguridad](sql/04_pruebas_seguridad.sql)
 
 ### Evidencias y arquitectura
 
