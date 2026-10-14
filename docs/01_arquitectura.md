@@ -1,10 +1,10 @@
-1. Arquitectura de la infraestructura Azure
-   1.1. Descripción general
+**1. Arquitectura de la infraestructura Azure**
+  **** 1.1. Descripción general****
    El proyecto utiliza Microsoft Azure para alojar una base de datos SQL empresarial ficticia,
    con el objetivo de implementar y verificar diferentes mecanismos de seguridad en la nube.
 La infraestructura se ha desplegado mediante Azure Portal, utilizando Azure SQL Database en su modalidad gratuita Serverless.
 
-1.2. Recursos desplegados
+**1.2. Recursos desplegados**
 
 Para el desarrollo del proyecto se han utilizado los siguientes recursos de Microsoft Azure:
 
@@ -18,7 +18,7 @@ Microsoft Entra ID: proporciona un sistema de autenticación centralizado que pe
 
 Azure Monitor: permite supervisar el rendimiento y el consumo de recursos de la base de datos mediante métricas como el porcentaje de utilización de CPU.
 
-1.4. Arquitectura de seguridad
+**1.4. Arquitectura de seguridad**
 
 La infraestructura emplea diferentes mecanismos de protección:
 
@@ -35,8 +35,8 @@ Transparent Data Encryption (TDE): cifrado de datos en reposo, verificado median
 TLS 1.2: versión mínima configurada para las conexiones cifradas.
 
 Azure Monitor: supervisión de las métricas de rendimiento.
-
-1.5. Consideraciones económicas
+**
+1.5. Consideraciones económicas**
 
 La base de datos utiliza la oferta gratuita de Azure SQL, con facturación por exceso deshabilitada y pausa automática al alcanzar los límites gratuitos.
 
