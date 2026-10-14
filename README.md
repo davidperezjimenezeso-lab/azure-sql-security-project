@@ -44,7 +44,7 @@ principales y los controles de seguridad implementados.
 - **Región de Azure SQL:** Australia East
 - **Modalidad:** Azure SQL Database Free
 
-[Arquitectura de Azure](Docs/01_arquitectura.md)
+[Arquitectura de Azure](docs/01_arquitectura.md)
 
 
 ## 4. Tecnologías utilizadas
@@ -144,7 +144,7 @@ Las denegaciones se verificaron mediante mensajes de error SQL y consultas con `
 
 Las capturas de las pruebas realizadas se encuentran en la documentación técnica.
 
-[Ver pruebas y evidencias de seguridad](Docs/02_pruebas_seguridad.md)
+[Ver pruebas y evidencias de seguridad](docs/02_pruebas_seguridad.md)
 
 
 ## 7. Documentación y scripts
@@ -153,8 +153,8 @@ El repositorio contiene los siguientes recursos:
 
 ### Documentación técnica
 
-- [Arquitectura de Azure](Docs/01_arquitectura.md)
-- [Pruebas de seguridad](Docs/02_pruebas_seguridad.md)
+- [Arquitectura de Azure](docs/01_arquitectura.md)
+- [Pruebas de seguridad](docs/02_pruebas_seguridad.md)
 
 ### Scripts SQL
 
