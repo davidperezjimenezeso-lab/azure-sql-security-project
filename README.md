@@ -44,7 +44,7 @@ principales y los controles de seguridad implementados.
 - **Región de Azure SQL:** Australia East
 - **Modalidad:** Azure SQL Database Free
 
-[Consultar documentación de arquitectura](Docs/01_arquitectura.md)
+[Arquitectura de Azure](Docs/01_arquitectura.md)
 
 
 ## 4. Tecnologías utilizadas
