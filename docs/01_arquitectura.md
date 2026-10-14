@@ -18,7 +18,7 @@ Microsoft Entra ID: proporciona un sistema de autenticación centralizado que pe
 
 Azure Monitor: permite supervisar el rendimiento y el consumo de recursos de la base de datos mediante métricas como el porcentaje de utilización de CPU.
 
-**1.4. Arquitectura de seguridad**
+**1.3. Arquitectura de seguridad**
 
 La infraestructura emplea diferentes mecanismos de protección:
 
@@ -35,8 +35,8 @@ Transparent Data Encryption (TDE): cifrado de datos en reposo, verificado median
 TLS 1.2: versión mínima configurada para las conexiones cifradas.
 
 Azure Monitor: supervisión de las métricas de rendimiento.
-**
-1.5. Consideraciones económicas**
+
+**1.4. Consideraciones económicas****
 
 La base de datos utiliza la oferta gratuita de Azure SQL, con facturación por exceso deshabilitada y pausa automática al alcanzar los límites gratuitos.
 
