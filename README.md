@@ -32,7 +32,9 @@ control de permisos SQL y mecanismos de cifrado.
 El siguiente diagrama representa los componentes
 principales y los controles de seguridad implementados.
 
-[![Arquitectura Azure SQL](architecture/azure-sql-architecture.png)](https://github.com/davidperezjimenezeso-lab/azure-sql-security-project/blob/7d246bb71b73d7d887d6a0f0dcf859f5281616c8/architecture/Arquitectura%20segura%20de%20Azure%20SQL.png)
+
+![Arquitectura Azure SQL](architecture/Arquitectura%20segura%20de%20Azure%20SQL.png)
+
 
 ### Recursos principales
 
